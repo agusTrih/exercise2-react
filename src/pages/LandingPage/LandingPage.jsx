@@ -1,6 +1,6 @@
 import React from "react";
 import PersonalData from "../../component/PersonalData/PersonalData";
-import image from "../../assets/images/dt2.jpg";
+import image from "../../assets/images/dt1.jpg";
 function LandingPage() {
     let name = "Agus Trihanton";
 
